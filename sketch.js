@@ -11,19 +11,19 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
 function preload(){
-    walk1=loadImage("images/walking_1.png");
-    walk2=loadImage("images/walking_2.png");
-    walk3=loadImage("images/walking_3.png");
-    walk4=loadImage("images/walking_4.png");
-    walk5=loadImage("images/walking_5.png");
-    walk6=loadImage("images/walking_6.png");
-    walk7=loadImage("images/walking_7.png");
-    walk8=loadImage("images/walking_8.png");
+    walk1=loadImage("walking_1.png");
+    walk2=loadImage("walking_2.png");
+    walk3=loadImage("walking_3.png");
+    walk4=loadImage("walking_4.png");
+    walk5=loadImage("walking_5.png");
+    walk6=loadImage("walking_6.png");
+    walk7=loadImage("walking_7.png");
+    walk8=loadImage("walking_8.png");
     
-    light1=loadImage("images/1.png");
-    light2=loadImage("images/2.png");
-    light3=loadImage("images/3.png");
-    light4=loadImage("images/4.png");
+    light1=loadImage("1.png");
+    light2=loadImage("2.png");
+    light3=loadImage("3.png");
+    light4=loadImage("4.png");
 
     
 
