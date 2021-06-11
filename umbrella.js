@@ -4,7 +4,7 @@ class Umbrella{
              isStatic:true
         }
         
-        this.Umbrella = loadImage("images/walking_1.png")
+        this.Umbrella = loadImage("walking_1.png")
         this.body = Bodies.circle(x, y, r, options);
         this.x = x
         this.y = y
